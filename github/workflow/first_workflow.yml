@@ -1,0 +1,13 @@
+name : first_workflow 
+
+on : push 
+
+jobs:
+  first:
+    runs-on : self-hosted
+    steps:
+      - name: prinst message 
+        run : echo "Vikas is best"
+        
+
+
