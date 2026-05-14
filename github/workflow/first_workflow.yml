@@ -7,7 +7,7 @@ jobs:
     runs-on : ubuntu-latest
     steps:
       - name: prinst message 
-        run : echo "Vikas is"
+        run : echo "Vikas is"1
         
 
 
