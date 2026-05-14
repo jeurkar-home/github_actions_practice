@@ -6,7 +6,7 @@ jobs:
   first:
     runs-on : ubuntu-latest
     steps:
-      - name: prinst message 
+        name: print message 
         run : echo "Vikas is"1
         
 
